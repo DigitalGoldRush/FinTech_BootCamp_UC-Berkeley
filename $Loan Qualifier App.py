@@ -80,11 +80,11 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
 # Saves the qualifying loans to a CSV file.
 
-def save_csv(qualifying_loans):
+def save_csv(approved_loans):
     
     #Check to see if the applicant qualified for any loans 
 
-    if (len)(qualifying_loans) ==0:
+    if (len)(approved_loans) > 0:
         
         #If applicant does qualify for loans he will be given the option to save it.
         decision_user_save = questionary.confirm("Would you like to save this list of qualified lenders to a .csv file?").ask()
@@ -94,7 +94,7 @@ def save_csv(qualifying_loans):
             csv_path = Path(csv_path)
         
            #Results saved as a CSV file
-            save_csv(csv_path, qualifying_loans)
+            save_csv(csv_path, approved_loans)
 
         #applicant opts out of saving file
         else:
@@ -123,3 +123,4 @@ def run():
 
 if __name__ == "__main__":
     fire.Fire(run)
+
