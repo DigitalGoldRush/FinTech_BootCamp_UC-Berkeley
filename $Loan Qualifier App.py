@@ -74,30 +74,35 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
+header = ["Lender", "MAX Loan AMT", "MAX LTV", "MAX DTI", "MIN Credit Score", "Interest Rate"]
+print(tabulate(qualifying_loans, headers=header, tablefmt="grid"))
+            
 
 # Saves the qualifying loans to a CSV file.
 
 def save_csv(qualifying_loans):
     
-    #If the applicant does not qualify for any loans, notification will be sent and program will end.
+    #Check to see if the applicant qualified for any loans 
+
     if (len)(qualifying_loans) ==0:
-        print("You do not qualify for any loans. Please try again in a few months.")
+        
+        #If applicant does qualify for loans he will be given the option to save it.
+        decision_user_save = questionary.confirm("Would you like to save this list of qualified lenders to a .csv file?").ask()
 
-    decision_user_save = questionary.confirm("Would you like to save this list of qualified lenders?").ask()
-    bank_list = []
-    header = ["Lender", "MAX Loan AMT", "MAX LTV", "MAX DTI", "MIN Credit Score", "Interest Rate"]
-    print(tabulate(qualifying_loans, headers=header, tablefmt="grid"))
-    csv_prompt = questionary.confirm("Would you like to save this list of qualified lenders?").ask()
+        if decision_user_save == True:
+            csv_path = questionary.text("What path will you use? (Enter a file path that ends in .csv").ask()
+            csv_path = Path(csv_path)
+        
+           #Results saved as a CSV file
+            save_csv(csv_path, qualifying_loans)
 
+        #applicant opts out of saving file
+        else:
+            print("You have decided to not save your loans.")
 
-    if csv_prompt == True:
-        csv_path = print("What path to the .csv file will you use?").ask()
-        csv_path = Path(csv_path)
-
+    #notification will be sent and program will end.
     else:
-        print("Your answer is noted. I will print the results on the screen")
-
-    
+        print("You do not qualify for any loans. Please try again in a few months.")
 
 def run():
   
@@ -113,7 +118,7 @@ def run():
     )
 
     # Save qualifying loans
-    save_qualifying_loans(qualifying_loans)
+    save_csv(qualifying_loans)
 
 
 if __name__ == "__main__":
