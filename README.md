@@ -45,12 +45,26 @@ $ pip install fire
 $ pip install tabulate
 ```
 
-
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+### Use questionary to ask a single question
+```python
+import questionary
+question = questionary.text("What's your first name?")
+```
+### Need to prompt the user to answer it:
+```python
+answer = question.ask()
+```
+### You can concatonate creating and asking the question in a single line for simplicity:
+```python
+import questionary
+answer = questionary.text("What's your first name?").ask()
+```
+
+
 
 ---
 
