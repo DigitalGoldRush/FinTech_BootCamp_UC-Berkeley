@@ -1,11 +1,12 @@
 #Loan Qualifier Application.
 #This is a command line application to match applicants with qualifying loans.
-
+from pathlib import Path
 import sys
 import fire
+from matplotlib.cbook import ls_mapper
 import questionary
-import csv
-from pathlib import Path
+import csv 
+
 from tabulate import tabulate
 
 from qualifier.utils.fileio import load_csv
@@ -24,7 +25,7 @@ from qualifier.filters.loan_to_value import filter_loan_to_value
 #Ask for the file path of the latest bank data & return it as a CSV file
 
 def load_bank_data():
-    csvpath = questionary.text("Greetings Earthling. What is the file path of the current loan data you wish to sort from? The latest prices are in loan_qualifier_app/data/daily_rate_sheet.csv:").ask()
+    csvpath = questionary.text("Greetings Earthling. What is the file path of the current loan data you wish to sort from? The latest prices are in data/daily_rate_sheet.csv:").ask()
     csvpath = Path(csvpath)
     if not csvpath.exists():
         sys.exit(f"Oops! Can't find this path: {csvpath}")
@@ -52,7 +53,7 @@ def get_applicant_info():
 
 
 # To determine which loans the user qualifies for.
-# Criteria is based on credit score, loan size, DTI ration, LTV ratio
+# Criteria is based on credit score, loan size, DTI ratio, LTV ratio
 # Will return a list of banks willing to underwrite the loan
 
 def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_value):
@@ -76,21 +77,22 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
 # Saves the qualifying loans to a CSV file.
 
-def save_qualifying_loans(qualifying_loans):
+def save_csv(qualifying_loans):
     
-#If the applicant does not qualify for any loans, notification will be sent and program will end.
-
+    #If the applicant does not qualify for any loans, notification will be sent and program will end.
     if (len)(qualifying_loans) ==0:
         print("You do not qualify for any loans. Please try again in a few months.")
 
+    decision_user_save = questionary.confirm("Would you like to save this list of qualified lenders?").ask()
     bank_list = []
     header = ["Lender", "MAX Loan AMT", "MAX LTV", "MAX DTI", "MIN Credit Score", "Interest Rate"]
     print(tabulate(qualifying_loans, headers=header, tablefmt="grid"))
     csv_prompt = questionary.confirm("Would you like to save this list of qualified lenders?").ask()
 
+
     if csv_prompt == True:
         csv_path = print("What path to the .csv file will you use?").ask()
-        csv_path = questionary.path(csv_path)
+        csv_path = Path(csv_path)
 
     else:
         print("Your answer is noted. I will print the results on the screen")
