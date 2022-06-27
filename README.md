@@ -9,6 +9,7 @@ This user-friendly app allows the user to determine what loans they may qualify 
 
 Qualifying loans can be saved to a CSV file for future reference if prompted.
  
+![<img src="http://url/image.png" style=" width:10px ; height:10px "  >](https://m.foolcdn.com/media/affiliates/images/Loan_paperwork_money.width-1200.jpg)
 
 ---
 
