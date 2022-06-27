@@ -79,8 +79,35 @@ class Calculator(object):
 if __name__ == '__main__':
   fire.Fire(Calculator)
 ```
----
 
+## [Tabulate Usage](https://pypi.org/project/tabulate/)
+
+### Use tabulate to print small tables without just one function call. The formating is guided by the data itself.
+```python
+>>> from tabulate import tabulate
+
+>>> table = [["Sun",696000,1989100000],["Earth",6371,5973.6],
+...          ["Moon",1737,73.5],["Mars",3390,641.85]]
+>>> print(tabulate(table))
+-----  ------  -------------
+Sun    696000     1.9891e+09
+Earth    6371  5973.6
+Moon     1737    73.5
+Mars     3390   641.85
+-----  ------  -------------
+```
+### Optional argument named `headers` will provide column headers:<br>
+```python
+>>> print(tabulate(table, headers=["Planet","R (km)", "mass (x 10^29 kg)"]))
+Planet      R (km)    mass (x 10^29 kg)
+--------  --------  -------------------
+Sun         696000           1.9891e+09
+Earth         6371        5973.6
+Moon          1737          73.5
+Mars          3390         641.85
+```
+
+---
 ## Contributors
 
 [![Python](https://img.shields.io/badge/Michael_Dionne-LinkedIn-blue)](https://www.linkedin.com/in/michael-dionne-b2a1b61b/)
