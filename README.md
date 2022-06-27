@@ -20,12 +20,13 @@ Qualifying loans can be saved to a CSV file for future reference if prompted.
 [<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> ](https://code.visualstudio.com/)
 
 
-<img alt="DjangoREST" src="https://img.shields.io/badge/PyPI-Questionary-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>
-<img alt="DjangoREST" src="https://img.shields.io/badge/PyPI-FIRE-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>
+[<img alt="DjangoREST" src="https://img.shields.io/badge/PyPI-Questionary-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://questionary.readthedocs.io/en/stable/index.html)
 
+[<img alt="DjangoREST" src="https://img.shields.io/badge/PyPI-FIRE-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://pypi.org/project/fire/)
 
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+[<img alt="DjangoREST" src="https://img.shields.io/badge/PyPI-TABULATE-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://pypi.org/project/tabulate/)
 
+[<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DigitalGoldRush?tab=repositories)
 
 ---
 
