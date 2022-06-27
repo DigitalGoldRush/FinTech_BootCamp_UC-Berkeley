@@ -74,8 +74,8 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
-header = ["Lender", "MAX Loan AMT", "MAX LTV", "MAX DTI", "MIN Credit Score", "Interest Rate"]
-print(tabulate(qualifying_loans, headers=header, tablefmt="grid"))
+    header = ["Lender", "MAX Loan AMT", "MAX LTV", "MAX DTI", "MIN Credit Score", "Interest Rate"]
+    print(tabulate(bank_data_filtered, headers=header, tablefmt="grid"))
             
 
 # Saves the qualifying loans to a CSV file.
