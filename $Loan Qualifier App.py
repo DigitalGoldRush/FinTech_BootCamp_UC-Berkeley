@@ -5,7 +5,7 @@ import sys
 import fire
 from matplotlib.cbook import ls_mapper
 import questionary
-import csv 
+
 
 from tabulate import tabulate
 
