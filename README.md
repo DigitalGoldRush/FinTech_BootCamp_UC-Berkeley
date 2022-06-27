@@ -32,7 +32,19 @@ Qualifying loans can be saved to a CSV file for future reference if prompted.
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+### To install questionary, simply run this command in your terminal of choice:
+```python
+$ pip install questionary
+```
+### To install fire, simply run this command in your terminal of choice:
+```python
+$ pip install fire
+```
+### To install tabulate, simply run this command in your terminal of choice:
+```python
+$ pip install tabulate
+```
+
 
 ---
 
