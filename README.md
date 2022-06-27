@@ -47,7 +47,7 @@ $ pip install tabulate
 
 ---
 
-## Usage
+## Questionary Usage
 
 ### Use questionary to ask a single question
 ```python
@@ -64,8 +64,22 @@ import questionary
 answer = questionary.text("What's your first name?").ask()
 ```
 
+## Fire Usage
+You can call `Fire` on any Python object:<br>
+functions, classes, modules, objects, dictionaries, lists, tuples, etc.
+They all work!
 
+Here's a simple example.
 
+```python
+import fire
+class Calculator(object):
+  """A simple calculator class."""
+  def double(self, number):
+    return 2 * number
+if __name__ == '__main__':
+  fire.Fire(Calculator)
+```
 ---
 
 ## Contributors
