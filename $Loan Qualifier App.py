@@ -5,7 +5,7 @@ import sys
 import fire
 from matplotlib.cbook import ls_mapper
 import questionary
-
+import csv
 
 from tabulate import tabulate
 
@@ -73,10 +73,7 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     print(f"Found {len(bank_data_filtered)} qualifying loans")
 
     return bank_data_filtered
-
-    header = ["Lender", "MAX Loan AMT", "MAX LTV", "MAX DTI", "MIN Credit Score", "Interest Rate"]
-    print(tabulate(bank_data_filtered, headers=header, tablefmt="grid"))
-            
+      
 
 # Saves the qualifying loans to a CSV file.
 
@@ -86,16 +83,31 @@ def save_csv(approved_loans):
 
     if (len)(approved_loans) > 0:
         
+        #if approved for loans then results will be printed on screen
+        print ("You have qualified for the following loans.")
+        header = ["Lender", "MAX Loan AMT", "MAX LTV", "MAX DTI", "MIN Credit Score", "Interest Rate"]
+        print(tabulate(approved_loans, headers=header, tablefmt="fancy_grid"))
+
         #If applicant does qualify for loans he will be given the option to save it.
         decision_user_save = questionary.confirm("Would you like to save this list of qualified lenders to a .csv file?").ask()
 
         if decision_user_save == True:
-            csv_path = questionary.text("What path will you use? (Enter a file path that ends in .csv").ask()
-            csv_path = Path(csv_path)
-        
-           #Results saved as a CSV file
-            save_csv(csv_path, approved_loans)
+           
+           #user asked what file path he will use           
+           decision_user_save = questionary.path("What path will you use? (Enter a file path that ends in .csv").ask()
+           
+           #Using a neat format
+           header = ["Lender", "MAX Loan AMT", "MAX LTV", "MAX DTI", "MIN Credit Score", "Interest Rate"]
+           print(tabulate(approved_loans, headers=header, tablefmt="fancy_grid"))
+           
+           #user file saved as .csv
+           with open(decision_user_save, "w", newline="") as csvfile:
+               csvwriter = csv.writer(csvfile, delimiter=',')
+               if header:
+                   csvwriter.writerow(header)
+               csvwriter.writerows(approved_loans)    
 
+            
         #applicant opts out of saving file
         else:
             print("You have decided to not save your loans.")
@@ -103,6 +115,7 @@ def save_csv(approved_loans):
     #notification will be sent and program will end.
     else:
         print("You do not qualify for any loans. Please try again in a few months.")
+        return
 
 def run():
   
@@ -118,7 +131,7 @@ def run():
     )
 
     # Save qualifying loans
-    save_csv(qualifying_loans)
+    save_csv(approved_loans)
 
 
 if __name__ == "__main__":
