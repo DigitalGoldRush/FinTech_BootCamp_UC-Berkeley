@@ -131,7 +131,7 @@ def run():
     )
 
     # Save qualifying loans
-    save_csv(approved_loans)
+    save_csv(qualifying_loans)
 
 
 if __name__ == "__main__":
