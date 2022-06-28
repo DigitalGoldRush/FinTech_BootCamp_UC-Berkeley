@@ -98,7 +98,6 @@ def save_csv(approved_loans):
            
            #Using a neat format
            header = ["Lender", "MAX Loan AMT", "MAX LTV", "MAX DTI", "MIN Credit Score", "Interest Rate"]
-           print(tabulate(approved_loans, headers=header, tablefmt="fancy_grid"))
            
            #user file saved as .csv
            with open(decision_user_save, "w", newline="") as csvfile:
@@ -107,7 +106,8 @@ def save_csv(approved_loans):
                    csvwriter.writerow(header)
                csvwriter.writerows(approved_loans)    
 
-            
+               print("Here is your printed loan approvals. Now lets get you in contact with one of our representatives.")    
+               
         #applicant opts out of saving file
         else:
             print("You have decided to not save your loans.")
@@ -115,7 +115,7 @@ def save_csv(approved_loans):
     #notification will be sent and program will end.
     else:
         print("You do not qualify for any loans. Please try again in a few months.")
-        return
+        
 
 def run():
   
