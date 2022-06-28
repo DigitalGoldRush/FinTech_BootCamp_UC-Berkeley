@@ -83,7 +83,7 @@ if __name__ == '__main__':
 
 ## [Tabulate Usage](https://pypi.org/project/tabulate/)
 
-### Use tabulate to print small tables without just one function call. The formating is guided by the data itself.
+### Use tabulate to print small tables with just one function call. The formating is guided by the data itself.
 ```python
 >>> from tabulate import tabulate
 
