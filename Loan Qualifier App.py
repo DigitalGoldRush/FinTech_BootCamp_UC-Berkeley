@@ -106,7 +106,7 @@ def save_csv(approved_loans):
                    csvwriter.writerow(header)
                csvwriter.writerows(approved_loans)    
 
-               print("Here is your printed loan approvals. Now lets get you in contact with one of our representatives.")    
+               print("Here is your printed loan approval list. Now lets get you in contact with one of our representatives.")    
                
         #applicant opts out of saving file
         else:
