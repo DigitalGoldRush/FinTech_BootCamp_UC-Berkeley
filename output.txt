@@ -1,0 +1,8 @@
+Script started on Mon Jun 27 18:12:47 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                                    ]7;file://Michaels-MacBook-Pro.local/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley[0m[27m[24m[J(base) michaeldionne@Michaels-MacBook-Pro FinTech_BootCamp_UC-Berkeley % [K[?2004hlls output.txt[1m [0m[0m [?2004l
+output.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                    ]7;file://Michaels-MacBook-Pro.local/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley[0m[27m[24m[J(base) michaeldionne@Michaels-MacBook-Pro FinTech_BootCamp_UC-Berkeley % [K[?2004hccsc cd 
+[J\$Loan\ Qualifier\ App.py  data/                      qualifier/                 test\ file.csv             
+README.md                  output.txt                 terminal_history.txt       [A[A[0m[27m[24m[73Ccd[K[1Coutput.txt[1m [0m[0m [?2004l
+[Jcd: not a directory: output.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                    ]7;file://Michaels-MacBook-Pro.local/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley[0m[27m[24m[J(base) michaeldionne@Michaels-MacBook-Pro FinTech_BootCamp_UC-Berkeley % [K[?2004h

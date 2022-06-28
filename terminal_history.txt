@@ -1,0 +1,982 @@
+   50  conda activate dev
+   51  ls
+   52  cd 03_Split_Second_Homebuying  
+   53  ls
+   54  cd unsolved
+   55  python unsolved.py
+   56  cd solved
+   57  ls solved
+   58  ls 
+   59  python split_second_homebuying.py 
+   60  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   61  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   62  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   63  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   64  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   65  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   66  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   67  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   68  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   69  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   70  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   71  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   72  conda activate dev
+   73  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   74  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   75  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   76  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   77  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   78  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   79  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   80  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+   81  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+   82  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+   83  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+   84  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   85  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   86  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   87  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   88  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   89  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   90  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   91  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+   92  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+   93  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+   94  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+   95  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+   96  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+   97  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+   98  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+   99  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  100  conda activate dev
+  101  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  102  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  103  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  104  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  105  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  106  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  107  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  108  conda activate dev
+  109  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  110  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  111  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  112  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  113  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  114  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  115  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  116  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  117  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  118  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  119  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py
+  120  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  121  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  122  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  123  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  124  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  125  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  126  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  127  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  128  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  129  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  130  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  131  import pathlib
+  132  conda deactivate
+  133  import pathlib
+  134  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  135  conda activate dev
+  136  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  137  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  138  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  139  conda activate dev
+  140  import pathlib
+  141  ls
+  142  import pathlib
+  143  /usr/local/bin/python3 Untitled-1
+  144  import pathlib
+  145  from pathlib import Path
+  146  my_directory = Path(".")
+  147  brew install python3
+  148  brew upgrade
+  149  sudo chown -R $(whoami) /usr/local/share/man/man8
+  150   chmod u+w /usr/local/share/man/man8
+  151  brew upgrade
+  152  python3 --version
+  153  conda activate dev
+  154  conda --version
+  155  conda update conda
+  156  import pathlib
+  157  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/import pathlib.py"
+  158  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/import pathlib.py"
+  159  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/import pathlib.py"
+  160  conda activate dev
+  161  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/import pathlib.py"
+  162  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/import pathlib.py"
+  163  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/import pathlib.py"
+  164  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  165  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  166  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  167  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  168  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  169  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  170  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  171  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  172  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  173  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  174  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/M1L3.py
+  175  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  176  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  177  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  178  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  179  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  180  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  181  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  182  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  183  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py
+  184  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py
+  185  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  186  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  187  import pathlib
+  188  conda activate dev
+  189  python variables.py
+  190  cd /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/01_Ins_Variables/Solved/variables.py
+  191  pwd
+  192  pwd
+  193  python variables.py
+  194  cd /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/01_Ins_Variables/Solved/variables.py
+  195  python variables.py
+  196  cd Desktop
+  197  cd Class_1_ACtivities
+  198  Class_1_Activities
+  199  cd Class_1_Activities
+  200  cd /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/01_Ins_Variables/Solved/variables.py
+  201  python variables.py
+  202  cd /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/01_Ins_Variables/Solved/variables.py
+  203  brew --version
+  204  ls
+  205  cd desktop
+  206  ls Desktop
+  207  Ls Desktop
+  208  conda deactivate
+  209  ls Desktop
+  210  Ls Desktop
+  211  pwd
+  212  PWD
+  213  ls
+  214  cd Bootcamp
+  215  ls Bootcamp
+  216  LS Bootcamp
+  217  Ls Bootcamp
+  218  python --version
+  219  ls
+  220  cd Class_1_Activities
+  221  ls
+  222  cd 01_Ins_Variables
+  223  ls
+  224  cd solved
+  225  ls
+  226  python variables.py
+  227  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/01_Ins_Variables/Solved/variables.py
+  228  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/02_Stu_Percent_Increase/Solved/percent_increase.py
+  229  whoami
+  230  pwd
+  231  ls
+  232  ls -a
+  233  date
+  234  echo "hell"
+  235  whoami
+  236  pwd
+  237  ls
+  238  ls -a
+  239  ls -l
+  240  clear
+  241  ls
+  242  ls -l
+  243  ls -lh
+  244  clear
+  245  ls -F
+  246  ls -lF
+  247  ls -lFa
+  248  clear
+  249  lws
+  250  pwd
+  251  ls Desktop
+  252  ls -la Desktop
+  253  clear
+  254  ls
+  255  file Public
+  256  clear
+  257  history
+  258  clear
+  259  man ls
+  260  $python script.py\n>>> https://zoom.us/rec/play/Y6IsBL12DNFRzejwnS73brIM5KIKEH58T-GnNjxsQGtQbGMGD4eWYCa85sMqlwdNKX6ATHxJdjzwlteQ.DlYmUqI3AMJR9DDy
+  261  conda activate dev
+  262  $python script.py\n>>> https://zoom.us/rec/play/Y6IsBL12DNFRzejwnS73brIM5KIKEH58T-GnNjxsQGtQbGMGD4eWYCa85sMqlwdNKX6ATHxJdjzwlteQ.DlYmUqI3AMJR9DDy
+  263  ### script.py\nbase_url="https://zoom.us/rec/play"\nsession_hash="Y6IsBL12DNFRzejwnS73brIM5KIKEH58T-GnNjxsQGtQbGMGD4eWYCa85sMqlwdNKX6ATHxJdjzwlteQ.DlYmUqI3AMJR9DDy"\nprint(base_url+"/"+session_hash)
+  264  clear
+  265  ls Applications
+  266  pwd
+  267  conda deactivate 
+  268  pwd
+  269  ls
+  270  ls Desktop
+  271  ls F
+  272  ls F
+  273  ls Desktop
+  274  ls F
+  275  man
+  276  cd Desktop/Fintech-Workspace
+  277  ls
+  278  cd Python_Project/01_Racking_Up_The_Profit
+  279  ls
+  280  cd Solved
+  281  ls
+  282  python racking_up_the_profit.py
+  283  clear
+  284  pwd
+  285  ls
+  286  ls l
+  287  ls -l
+  288  man
+  289  ls
+  290  man
+  291  cd~
+  292  Cd~
+  293  clip < ~/.ssh/id_ed25519.pub
+  294  pwd
+  295  clip < ~/.ssh/id_ed25519.pub
+  296  pwd
+  297  ls
+  298  cd Desktop
+  299  ls
+  300  cd Fintech-Workspace
+  301  ls
+  302  cd ..
+  303  pwd
+  304  clear
+  305  cd Fintech-Workspace
+  306  cd Python_Project
+  307  cd 
+  308  cd Desktop/
+  309  ls
+  310  cd Fintech-Workspace
+  311  cd Python_Project
+  312  cd Starter_Code
+  313  pwd
+  314  cd ..
+  315  cd ~
+  316  clear
+  317  cd dir1/dir2
+  318  cd
+  319  cd Desktop/Fintech-Workspace/Python_Project/04_Automating_Equity_Rounds/Solved/
+  320  cd ../..
+  321  cd 
+  322  man cat
+  323  more
+  324  open
+  325  open Python
+  326  ls
+  327  open Pictures
+  328  ls .
+  329  xdg-open
+  330  ls
+  331  cd Des
+  332  cd Desktop Parallels
+  333  cd Desktop /
+  334  cd 
+  335  cd Desktop/Fintech-Workspace/Python_Project
+  336  cd Desktop/Fintech-Workspace/Python_Project
+  337  pwd
+  338  cd ..
+  339  cd~
+  340  cd~
+  341  ls
+  342  cd Desktop/Fintech-Workspace
+  343  ls .
+  344  ls Booktab/
+  345  ls Python_Project
+  346  open 02_Listing_Assets
+  347  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  348  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  349  pwd
+  350  clear
+  351  cd ..
+  352  pwd
+  353  pwd
+  354  pwd 
+  355  ls 
+  356  clear
+  357  anaconda activae dev
+  358  conda activate dev
+  359  clear
+  360  cd ..
+  361  cd Fintech-Workspace/Python_Project
+  362  ls
+  363  cd 04_Automating_Equity_Rounds
+  364  cd un
+  365  cd Unsolved
+  366  python Unsolved.py
+  367  ls
+  368  cd automated_equity_rounds.py
+  369  python automated_equity_rounds.py
+  370  file *.txt
+  371  clear
+  372  conda activate dev
+  373  cd /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/01_Ins_Variables/Solved/variables.py
+  374  cd /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/01_Ins_Variables/Solved/variables.
+  375  cd /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/01_Ins_Variables
+  376  ls
+  377  cd Solved
+  378  ls
+  379  python variables.py
+  380  pwd
+  381  ls
+  382  cs~
+  383  cd ~
+  384  python /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/02_Stu_Percent_Increase/Solved/percent_increase.py
+  385  python /Users/michaeldionne/Desktop/Bootcamp/Class_1_Activities/02_Stu_Percent_Increase/Solved/percent_increase.py
+  386  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/Starter_Code/loan_analyzer.py
+  387  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/Starter_Code/loan_analyzer.py
+  388  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/Starter_Code/loan_analyzer.py
+  389  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/Starter_Code/loan_analyzer.py
+  390  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/Starter_Code/loan_analyzer.py
+  391  clear
+  392  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/Starter_Code/loan_analyzer.py
+  393  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/Starter_Code/loan_analyzer.py
+  394  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/Starter_Code/loan_analyzer.py
+  395  cd Desktop/Fintech-Workspace/
+  396  ls
+  397  ls -al
+  398  ls
+  399  cd Class_2_Activities
+  400  ls
+  401  rm
+  402  clear
+  403  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py
+  404  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_1_Activities/05_Ins_Dictionaries/Unsolved/dicts.py
+  405  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/Starter_Code/loan_analyzer.py
+  406  clear
+  407  $ brew install git-gui
+  408  brew install git-gui
+  409  sudo import install git
+  410  sudo import install git
+  411  brew install git-gui
+  412  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  413  brew install git
+  414  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  415  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  416  conda activate dev
+  417  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  418  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  419  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  420  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  421  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/main.py"
+  422  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  423  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  424  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  425  clear
+  426  conda activate dev
+  427  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  428  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  429  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  430  cleatr
+  431  clear
+  432  conda activate dev
+  433  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  434  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  435  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  436  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  437  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  438  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  439  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  440  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  441  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  442  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  443  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  444  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  445  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  446  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  447  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  448  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  449  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  450  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  451  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  452  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  453  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  454  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  455  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  456  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  457  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  458  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  459  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  460  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Python_Project/02_Returned_Goods/Solved/returned_goods.py
+  461  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/06_Ins_Functions/Solved/functions.py
+  462  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/07_Stu_Functions/Solved/functions.py
+  463  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  464  clear
+  465  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  466  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  467  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  468  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  469  clear
+  470  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  471  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  472  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  473  clear
+  474  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  475  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  476  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  477  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  478  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  479  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  480  clear
+  481  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  482  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  483  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  484  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  485  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  486  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  487  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  488  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  489  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  490  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  491  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  492  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  493  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  494  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  495  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  496  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  497  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  498  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  499  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  500  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  501  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Github Upload/Module 1 Challenge"
+  502  conda activate dev
+  503  pip -v
+  504  pip -V
+  505  pip freeze
+  506  pip install fire
+  507  pip install questionary
+  508  conda dev activate
+  509  conda activate dev
+  510  ls
+  511  ls Desktop/Fintech-Workspace/Module\ 2 
+  512  cd Desktop/Fintech-Workspace/Module\ 2/MOdule\ 2\ practice\ file/01_Loan_Qualifier_Financial_Calculations
+  513  ls
+  514  ls Solved
+  515  python app.py
+  516  ls
+  517  cd Solved
+  518  ls
+  519  python app.py
+  520  python app.py
+  521  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  522  dev conda activate
+  523  conda activate dev
+  524  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  525  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  526  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  527  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  528  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  529  clear
+  530  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  531  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  532  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  533  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  534  clear
+  535  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  536  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  537  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  538  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  539  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  540  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  541  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  542  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  543  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  544  clear
+  545  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  546  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  547  clear
+  548  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  549  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  550  clear
+  551  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  552  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  553  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  554  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  555  clear
+  556  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  557  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  558  clear
+  559  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  560  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  561  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  562  clear
+  563  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  564  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  565  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  566  conda activate dev
+  567  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/app.py"
+  568  clear
+  569  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/app.py"
+  570  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/utils/app.py"
+  571  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/utils/app.py"
+  572  clear
+  573  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/utils/app.py"
+  574  conda activate dev
+  575  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/utils/app.py"
+  576  conda activate dev
+  577  cd /Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/utils
+  578  cd /Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/utils
+  579  cd "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/utils" 
+  580  ls
+  581  mv app.py ../..
+  582  ls
+  583  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/utils/app.py"
+  584  cd
+  585  cd "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/utils"
+  586  cd ..
+  587  cd ..
+  588  ls
+  589  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/qualifier/utils/app.py"
+  590  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  591  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  592  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/MOdule 2 practice file/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  593  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  594  clear
+  595  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  596  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  597  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  598  clear
+  599  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  600  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  601  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  602  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  603  clear
+  604  conda activate dev
+  605  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  606  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  607  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  608  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions.py"
+  609  clear
+  610  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions.py"
+  611  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  612  git config --global user.name Michael Dionne
+  613  git config --global user.email michael@digitalgoldrush.co
+  614  git config --list
+  615  git clone https://github.com/DigitalGoldRush/treaure-map.git
+  616  ls 
+  617  ls treaure-map
+  618  cd READM
+  619  ls treaure-map
+  620  cd treaure-map/README.md
+  621  cd treaure-map/README.md
+  622  git status
+  623  pwd
+  624  cd treaure-map/README.md
+  625  ls
+  626  cd treaure-map/R
+  627  ls 
+  628  ls treaure-map
+  629  pwd
+  630  cd treaure-map/README.md
+  631  ls
+  632  cd Desktop
+  633  git clone https://github.com/DigitalGoldRush/treaure-map.git
+  634  ls treaure-map
+  635  cd README.md
+  636  cd treaure-map/README.md
+  637  git status
+  638  cd treaure-map
+  639  git status
+  640  git add README.md
+  641  git status
+  642  touch new_file.txt
+  643  ls
+  644  git status
+  645  git add new_file.txt
+  646  git status
+  647  git commit -m "Wish me luck on this first commit"
+  648  git status
+  649  git commit -m "Wish me luck on this first commit"
+  650  git --version
+  651  git config --list
+  652  pwd
+  653  ls
+  654  pip install fire
+  655  import fire
+  656  python cli.py
+  657  import fire
+  658  dev activate conda
+  659  conda activate dev
+  660  cd /Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py
+  661  cd /Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py
+  662  cd 01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py
+  663  cd Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py
+  664  cd Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py
+  665  ls 
+  666  cd d
+  667  cd Desktop
+  668  01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py
+  669  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/app.py"
+  670  pwd
+  671  import fire
+  672  pip install fire
+  673  import /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/app.py"
+  674  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py"
+  675  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py"
+  676  ..
+  677  .. 
+  678  pwd
+  679  import fire
+  680  import fire
+  681  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py"
+  682  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py"
+  683  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py"
+  684  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py"
+  685  conda activate dev
+  686  pwd
+  687  ls
+  688  dr
+  689  ..
+  690  pip install fire
+  691  impport fire
+  692  import fire
+  693  clear
+  694  cd 
+  695  cd Desktop
+  696  pip install fire
+  697  import fire
+  698  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py"
+  699  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01-Creating_the_Loan_Qualifier_README_File/Unsolved/cli.py"
+  700  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  701  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py"
+  702  pip install questionary
+  703  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/dialog.py"
+  704  import questionary
+  705  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Unsolved/cli.py"
+  706  cd Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Unsolved/cli.py
+  707  cd Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/
+  708  cd Fintech-Workspace/Module 2/Module 2 Challenge
+  709  cd Fintech-Workspace/Module\ 2
+  710  ls
+  711  cd Module\ 2\ Challenge
+  712  import fire
+  713  /usr/local/bin/python3 Untitled-1
+  714  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Unsolved/cli.py"
+  715  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/cli.py"
+  716  clear
+  717  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/cli.py"
+  718  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/cli.py"
+  719  clear
+  720  /usr/local/bin/python3 Untitled-1
+  721  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/cli.py"
+  722  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/cli.py"
+  723  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/cli.py"
+  724  pip install fire
+  725  import fire
+  726  conda install fire -c conda-forge
+  727  import fire
+  728  dev conda activate
+  729  conda dev activate
+  730  conda activate dev
+  731  pip install fire
+  732  import fire
+  733  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/cli.py"
+  734  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  735  clear
+  736  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  737  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  738  clear
+  739  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  740  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/app.py"
+  741  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/app.py"
+  742  import sys; print(sys.version)
+  743  import sys; print(3.9)
+  744  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  745  clear
+  746  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  747  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  748  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  749  pip install fire
+  750  import fire
+  751  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  752  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/cli.py
+  753  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/cli.py
+  754  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  755  clear
+  756  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  757  /usr/local/bin/python3 /Users/michaeldionne/Desktop/Fintech-Workspace/cli.py
+  758  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/app.py"
+  759  node --version
+  760  npm install -g firebase-tools@latest\n
+  761  firebase login
+  762  python3 --version
+  763  python3 -m pip --version
+  764  clear
+  765  python3 -m pip install --upgrade pip setuptools wheel
+  766  python3 -m pip install "a.py"
+  767  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  768  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/app.py"
+  769  pip install fire
+  770  conda install -c conda-forge fire
+  771  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  772  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  773  /Users/michaeldionne/opt/anaconda3/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/Starter_Code/loan_qualifier_app/a.py"
+  774  conda activate base
+  775  pip install
+  776  pip --version
+  777  clear
+  778  pip install fire
+  779  pip show fire
+  780  python cli.py
+  781  conda activate base
+  782  /Users/michaeldionne/opt/anaconda3/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/cli.py"
+  783  import fire\nimport random\n\ndef clothes_picker():\n    shirts_list = ["solid blue t-shirt", "red striped sweatshirt", "purple and green tie dye t-shirt", "black dress shirt"]\n\n    return random.choice(shirts_list)/Users/michaeldionne/opt/anaconda3/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/cli.py"
+  784  /Users/michaeldionne/opt/anaconda3/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/cli.py"
+  785  /Users/michaeldionne/opt/anaconda3/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/cli.py"
+  786  conda activate dev
+  787  /Users/michaeldionne/opt/anaconda3/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/cli.py"
+  788  /Users/michaeldionne/opt/anaconda3/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/cli.py"
+  789  python cli.py --pants=True
+  790  /Users/michaeldionne/opt/anaconda3/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py"
+  791  pip install questionary
+  792  /Users/michaeldionne/opt/anaconda3/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  793  /Users/michaeldionne/opt/anaconda3/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/dialog.py"
+  794  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/dialog.py"
+  795  /usr/local/bin/python3 "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/cli.py"
+  796  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/dialog.py"
+  797  n
+  798  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/dialog.py"
+  799  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/dialog.py"
+  800  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/dialog.py"
+  801  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/dialog.py"
+  802  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py"
+  803  clear
+  804  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py"
+  805  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py"
+  806  history 50 > terminal_history.txt
+  807  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/Fintech-Workspace/Module 2/Module 2 Challenge/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py"
+  808  clear
+  809  ls
+  810  cd Starter_Code/  
+  811  ls
+  812  cd loan_qualifier_app
+  813  ls
+  814  git clone https://github.com/DigitalGoldRush/Loan-Qualifier-App.git
+  815  /usr/local/bin/python3 "/Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Loan Qualifier App.py"
+  816  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Loan Qualifier App.py"
+  817  conda activate dev
+  818  conda activate dev
+  819  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Loan Qualifier App.py"
+  820  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/New downloaded/Starter_Code/loan_qualifier_app/qualifier/filters/credit_score.py"
+  821  clear
+  822  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/New downloaded/Starter_Code/loan_qualifier_app/qualifier/filters/credit_score.py"
+  823  conda activate dev
+  824  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Loan Qualifier App.py"
+  825  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Loan Qualifier App.py"
+  826  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/New downloaded/Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py"
+  827  clear
+  828  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Desktop/New downloaded/Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py"
+  829  git config pull.rebase false  # merge
+  830   git config pull.rebase true   # rebase
+  831   git config pull.rebase true   # rebase
+  832  conda activate dev
+  833  cd Desktop/Fintech-Workspace/Module 2
+  834  cd Desktop/Fintech-Workspace/Module\ 2
+  835  ls
+  836  cd \$Loan\ Qualifier\ App
+  837  git clone https://github.com/DigitalGoldRush/Fintech-Coding-Bootcamp-UC-Berkeley-.git
+  838  conda activate dev
+  839  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/>>> from tabulate import tabulate.py"
+  840  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/>>> from tabulate import tabulate.py"
+  841  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/>>> from tabulate import tabulate.py"
+  842  conda activate dev
+  843  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  844  git status
+  845  git commit -m "Initial commit"
+  846  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  847  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  848  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  849  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  850  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  851  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  852  clear
+  853  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  854  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  855  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  856  loan_qualifier_app/data/daily_rate_sheet.csv
+  857  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  858  pip install fire
+  859  conda install fire -c conda-forge
+  860  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  861  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  862  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  863  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  864  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  865  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  866  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  867  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  868  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  869  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  870  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  871  clear
+  872  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  873  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  874  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  875  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  876  pip install tabulate
+  877  from tabulate import tabulate
+  878  clear
+  879  clear
+  880  pwd
+  881  .. cd
+  882  pip install tabulate
+  883  tabulate .exe
+  884  pip install tabulate --user
+  885  from tabulate import tabulate
+  886  pip install tabulate/.local/bin/tabulate
+  887  /.local/bin/tabulate
+  888  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  889  conda activate dev
+  890  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  891  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  892  conda activate dev
+  893  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  894  conda activate dev
+  895  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  896  clear
+  897  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  898  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  899  conda activate dev
+  900  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  901  conda activate dev
+  902  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  903  conda activate dev
+  904  cd /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  905  run /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  906  python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  907  python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  908  python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  909  pip install fire
+  910  conda install fire -c conda-forge
+  911  python /Users/michaeldionne/Documents/GitHub/Loan-Qualifier-App/Starter_Code/loan_qualifier_app/app.py
+  912  /Users/michaeldionne/Dropbox/My\ Mac\ \(Michael’s\ MacBook\ Pro\)/Downloads/gh_2.13.0_macOS_amd64/bin/gh ; exit;
+  913  /Users/michaeldionne/Dropbox/My\ Mac\ \(Michael’s\ MacBook\ Pro\)/Downloads/gh_2.13.0_macOS_amd64/bin/gh ; exit;
+  914  gh repo clone DigitalGoldRush/Fintech-Coding-Bootcamp-UC-Berkeley-
+  915  gh repo clone DigitalGoldRush/Fintech-Coding-Bootcamp-UC-Berkeley-
+  916  conda activate dev
+  917  conda activate dev
+  918  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  919  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/Loan_Qualifier_App"
+  920  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/Loan_Qualifier_App"
+  921  clear
+  922  clear
+  923  pwd
+  924  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/Loan_Qualifier_App"
+  925  git clone https://github.com/DigitalGoldRush/Fintech-Coding-Bootcamp-UC-Berkeley-.git
+  926  pwd
+  927  git status
+  928  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  929  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/Fintech-Coding-Bootcamp-UC-Berkeley-/$Loan Qualifier App/$Loan Qualifier App.py"
+  930  conda activate dev
+  931   /usr/bin/env /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56459 -- /Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/qualifier/filters/max_loan_size.py 
+  932   cd /Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley ; /usr/bin/env /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56468 -- /Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/qualifier/filters/max_loan_size.py 
+  933  conda activate dev
+  934  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py"
+  935  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py"
+  936  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py"
+  937  git status
+  938  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py"
+  939  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/data/test.py
+  940  clear
+  941  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python /Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/data/test.py
+  942  /Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py
+  943  ls
+  944  python \$Loan\ Qualifier\ App.py
+  945  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py"
+  946  ls
+  947  python \$Loan\ Qualifier\ App.py
+  948  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py"
+  949  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py"
+  950  ls
+  951  python \$Loan\ Qualifier\ App.py
+  952  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py"
+  953  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py"
+  954  clear
+  955  /Users/michaeldionne/opt/anaconda3/envs/dev/bin/python "/Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.py"
+  956  python \$Loan\ Qualifier\ App.py
+  957  conda dev init
+  958  conda dev env
+  959  conda activate dev
+  960  ls
+  961  cd Desktop
+  962  ls
+  963  cd Fintech-Workspace
+  964  ls
+  965  ls
+  966  M
+  967  clear
+  968  pwd
+  969  conda acticate dev
+  970  conda activate dev
+  971  ls D
+  972  ls d
+  973  ls
+  974  cd D
+  975  cd Documents/ 
+  976  ls
+  977  cd Git
+  978  cd GitHub
+  979  ls 
+  980  cd FinTech_BootCamp_UC-Berkeley/
+  981  cd \$Loan\ Qualifier\ App.py
+  982  cd \$Loan\ Qualifier\ App.py
+  983  cd \$Loan\ Qualifier\ App.py
+  984  python $Loan\ Qualifier\ App.py
+  985  clear
+  986  .. dir
+  987  .. clr
+  988  ..
+  989  cd ..
+  990  cd Fintech-Coding-Bootcamp-UC-Berkeley-
+  991  ls
+  992  python \$Loan\ Qualifier\ App/.py
+  993  ls
+  994  cd \$Loan\ Qualifier\ App
+  995  ls
+  996  python \$Loan\ Qualifier\ App.py
+  997  python \$Loan\ Qualifier\ App.py
+  998  python \$Loan\ Qualifier\ App.py
+  999  python \$Loan\ Qualifier\ App.py
+ 1000  python \$Loan\ Qualifier\ App.py
+ 1001  conda activate dev
+ 1002  cd Desktop
+ 1003  ls
+ 1004  ls u
+ 1005  ls 
+ 1006  pwd
+ 1007  .. dr
+ 1008  ..cd
+ 1009  pwd
+ 1010  pwd
+ 1011  pwd
+ 1012  cd ..
+ 1013  ls
+ 1014  /Users/michaeldionne/Documents/GitHub/FinTech_BootCamp_UC-Berkeley/$Loan Qualifier App.p
+ 1015  ls U
+ 1016  ls Documents
+ 1017  ls Documents 
+ 1018  ls Documents
+ 1019  cd Documents
+ 1020  cd GitHub/FinTech_BootCamp_UC-Berkeley/
+ 1021  ls \$Loan\ Qualifier\ App.py
+ 1022  python \$Loan\ Qualifier\ App.py
+ 1023  python \$Loan\ Qualifier\ App.py
+ 1024  python \$Loan\ Qualifier\ App.py
+ 1025  python \$Loan\ Qualifier\ App.py
+ 1026  python \$Loan\ Qualifier\ App.py
+ 1027  python \$Loan\ Qualifier\ App.py
+ 1028  python \$Loan\ Qualifier\ App.py
+ 1029  python \$Loan\ Qualifier\ App.py
+ 1030  python \$Loan\ Qualifier\ App.py
+ 1031  history 50 > terminal_history.txt
